@@ -102,3 +102,69 @@ header{
 
     width: 100%;
 }
+
+.category-header{
+  text-transform: uppercase;
+  color: #3e4152;
+  letter-spacing:  .15em;
+  font-size: 1.8em;
+  margin: 50px 0 10px 30px;
+  max-height: 5em;
+  font-weight: 700;
+}
+
+.category-items{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.sale-item{
+    height: 250px ;
+  
+}
+
+.footer-container{
+    padding: 30px 0px 40px 0px;
+    background-color: #fafbfc;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.footer-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-column a{
+    text-decoration: none;
+    color: #696b79;
+    display: block;
+    font-size:  15px;
+    padding-bottom: 5px;
+}
+
+.footer-column a:hover{
+    color: #282c3f;
+    text-decoration: underline;
+}
+
+.footer-column h3{
+    color: #282c3f;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+.footer-column h3 span{
+    color: #898b90;
+    display: block;
+    font-size:  15px;
+    font-weight: 400;
+}
+
+.copyright{
+    color: #94969f;
+    text-align: center;
+    padding: 15px;
+}
