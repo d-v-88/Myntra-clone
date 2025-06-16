@@ -1,3 +1,4 @@
+/* style for the whole web application */
 *{
     margin: 0;
     padding: 0;
@@ -5,6 +6,7 @@
     box-sizing: border-box;
 }
 
+/* style for the header section which includes logo image, navlinks, search-bar and action elements */
 header{
     display: flex;
     height: 80px;
@@ -95,6 +97,8 @@ header{
 }
 
 
+/* style for the main section */
+/* style for the banner on home page */
 .banner-container{
     margin: 40px 10px;
 }
@@ -103,6 +107,7 @@ header{
     width: 100%;
 }
 
+/* styling for the category and sale items */
 .category-header{
   text-transform: uppercase;
   color: #3e4152;
@@ -124,6 +129,7 @@ header{
   
 }
 
+/* footer styling  */
 .footer-container{
     padding: 30px 0px 40px 0px;
     background-color: #fafbfc;
@@ -163,6 +169,7 @@ header{
     font-weight: 400;
 }
 
+/* copyright styling */
 .copyright{
     color: #94969f;
     text-align: center;
