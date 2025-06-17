@@ -19,27 +19,36 @@ Responsive banner, product section and footer for desktop,tablet and mobile view
 
 ## Homepage
 
-![Image](https://github.com/user-attachments/assets/a9585d4a-8f00-4a3d-87e1-f4d666de6f4a)<br><br>
-
+![Image](https://github.com/user-attachments/assets/a9585d4a-8f00-4a3d-87e1-f4d666de6f4a)
+<br>
+<br>
 
 ## Product
 
-![Image](https://github.com/user-attachments/assets/cd967f0f-9915-4ea9-9466-81ab557501b8)<br><br>
+![Image](https://github.com/user-attachments/assets/cd967f0f-9915-4ea9-9466-81ab557501b8)
+<br>
+<br>
 
 ## Footer
 
-![Image](https://github.com/user-attachments/assets/6885ffd7-22db-4440-b2e0-ec945d95756a)<br><br>
+![Image](https://github.com/user-attachments/assets/6885ffd7-22db-4440-b2e0-ec945d95756a)
+<br>
+<br>
 
 # Mobile Layout
 <br>
 
 ## Homepage
 
-![Image](https://github.com/user-attachments/assets/2221940d-c414-48ff-a6b3-6b72baf68709)<br><br>
+![Image](https://github.com/user-attachments/assets/2221940d-c414-48ff-a6b3-6b72baf68709)
+<br>
+<br>
 
 ## Product
 
-![Image](https://github.com/user-attachments/assets/fe356917-7fd7-4b73-8a06-f68080e4dc72)<br><br>
+![Image](https://github.com/user-attachments/assets/fe356917-7fd7-4b73-8a06-f68080e4dc72)
+<br>
+<br>
 
 ## Footer
 
