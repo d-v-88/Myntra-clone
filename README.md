@@ -16,12 +16,12 @@ Responsive banner, product section and footer for desktop,tablet and mobile view
 
 ## Desktop Layout
 
-## Homepage Layout
-br
+# Homepage Layout
+
 ![Image](https://github.com/user-attachments/assets/a9585d4a-8f00-4a3d-87e1-f4d666de6f4a)
 
-br
-## Product Layout
+
+# Product Layout
 
 ![Image](https://github.com/user-attachments/assets/cd967f0f-9915-4ea9-9466-81ab557501b8)
 
