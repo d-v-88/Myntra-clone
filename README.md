@@ -25,6 +25,8 @@ Responsive banner, product section and footer for desktop,tablet and mobile view
 
 ![Image](https://github.com/user-attachments/assets/cd967f0f-9915-4ea9-9466-81ab557501b8)
 
+# Footer Layout
+
 ![Image](https://github.com/user-attachments/assets/6885ffd7-22db-4440-b2e0-ec945d95756a)
 
 ![Image](https://github.com/user-attachments/assets/2221940d-c414-48ff-a6b3-6b72baf68709)
