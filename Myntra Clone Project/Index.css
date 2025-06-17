@@ -96,6 +96,37 @@ header{
     cursor: pointer;
 }
 
+/* style for small screen */
+@media screen and (max-width: 1000px) {
+    .nav-bar{
+        display: none;
+    }
+    .search-bar{
+        display: none;
+    }
+    .action-bar{
+        display: none;
+    }
+}
+
+.menu-icon{
+    margin-right: 15px;
+    width: 20px;
+    height: 30px;
+    cursor: pointer;
+}
+
+/* @media screen and () {
+    
+} */
+
+@media screen and (min-width: 1000px) {
+    .menu-icon{
+        display: none;
+        /* padding-right: 20px; */
+    }
+}
+
 
 /* style for the main section */
 /* style for the banner on home page */
@@ -113,7 +144,7 @@ header{
   color: #3e4152;
   letter-spacing:  .15em;
   font-size: 1.8em;
-  margin: 50px 0 10px 30px;
+  margin: 50px 0 20px 30px;
   max-height: 5em;
   font-weight: 700;
 }
@@ -127,6 +158,22 @@ header{
 .sale-item{
     height: 250px ;
   
+}
+
+@media screen and (max-width: 480px) {
+    .category-header{
+        all: unset;
+        text-transform: uppercase;
+        color: #3e4152;
+        letter-spacing:  .10em;
+        font-size: 1em;
+        margin: 50px 0 30px 0px;
+        max-height: 7em;
+        font-weight: 700;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
 }
 
 /* footer styling  */
@@ -149,6 +196,7 @@ header{
     display: block;
     font-size:  15px;
     padding-bottom: 5px;
+  
 }
 
 .footer-column a:hover{
@@ -167,6 +215,19 @@ header{
     display: block;
     font-size:  15px;
     font-weight: 400;
+}
+
+@media screen and (max-width:740px) {
+    .footer-container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer-column h3{
+       margin-top: 20px;
+       margin-bottom: 10px;
+    }
 }
 
 /* copyright styling */
