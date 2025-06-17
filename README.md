@@ -23,15 +23,15 @@ Responsive banner, product section and footer for desktop,tablet and mobile view
 <br>
 <br>
 
-## Product
-
-![Image](https://github.com/user-attachments/assets/cd967f0f-9915-4ea9-9466-81ab557501b8)
-<br>
-<br>
-
 ## Footer
 
 ![Image](https://github.com/user-attachments/assets/6885ffd7-22db-4440-b2e0-ec945d95756a)
+<br>
+<br>
+
+## Product
+
+![Image](https://github.com/user-attachments/assets/cd967f0f-9915-4ea9-9466-81ab557501b8)
 <br>
 <br>
 
